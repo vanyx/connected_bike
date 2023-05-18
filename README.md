@@ -15,23 +15,20 @@ L'application embarque :
 - un système de navigation (position de l'utilisateur sur une carte, possibilité de rentrer un itiniéraire et de le suivre)
 - l'historique de tous les trajets effectués
 
-# Le boitier:
+# Le boitier :
 Le boitier est un module Arduino, alimenté par une pile 9V
 
-Attention !
+Attention :
+- Le module Bluetooth Arduino est un module "BLE v1.0", utilisant la technologie Bluetooth BLE.
+- L'écran LED est un écran "LED MAX7219"
 
-Le module Bluetooth Arduino est un module "BLE v1.0", utilisant la technologie Bluetooth BLE.
-
-L'écran LED est un écran "LED MAX7219"
-
-Branchement:
+Branchement :
 
 Module Bluetooth BLE v1.0 : 
   - VCC: 3.3V
   - GNG: GND
   - RX: Port 6
   - TX: Port 7
-
 
 Module écran LED MAX7219:
   - VCC: 5V
