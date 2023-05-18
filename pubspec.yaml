@@ -1,0 +1,25 @@
+name: v_finale
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_blue: ^0.8.0
+  flutter_osm_plugin: ^0.53.4+1
+  geocoding: ^2.1.0
+  geolocator: ^9.0.2
+  sensors_plus: ^3.0.0
+  sqflite: ^2.2.8+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
