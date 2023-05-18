@@ -1,7 +1,7 @@
 # FABLAB - Velo Connecté
 
-Dépot Git pour le projet de vélo connecté. 
-Tous les fichiers sont les fichiers pour le projet Flutter
+Dépot Git pour le projet de vélo connecté.
+\n Tous les fichiers sont les fichiers pour le projet Flutter
 Sauf "ARDUINO.ino", qui est le fichier qui contient le code Arduino
 
 # Qu'est ce que ce vélo connecté ?
