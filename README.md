@@ -17,11 +17,15 @@ L'application embarque :
 
 # Le boitier:
 Le boitier est un module Arduino, alimenté par une pile 9V
-# WARNING :
-Le module Bluetooth Arduino est un module "BLE v1.0", utilisant la technologie Bluetooth BLE
+
+Attention !
+
+Le module Bluetooth Arduino est un module "BLE v1.0", utilisant la technologie Bluetooth BLE.
+
 L'écran LED est un écran "LED MAX7219"
 
 Branchement:
+
 Module Bluetooth BLE v1.0 : 
   - VCC: 3.3V
   - GNG: GND
