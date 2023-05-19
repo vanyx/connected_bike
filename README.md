@@ -1,8 +1,9 @@
 # FABLAB - Velo Connecté
 
-Dépot Git pour le projet de vélo connecté. Tous les fichiers sont les fichiers pour le projet Flutter, sauf "ARDUINO.ino", qui est le fichier qui contient le code Arduino.
+Dépot Github pour le projet de vélo connecté. Tous les fichiers sont les fichiers pour le projet Flutter, sauf "ARDUINO.ino", qui est le fichier qui contient le code Arduino.
 
-Des images/vidéos du rendu sont disponible dans le dossier "IMAGES_RENDU"
+- Des images du rendu sont disponible dans le dossier "IMAGES_RENDU"
+- Une vidéo de démonstration est disponible sur YouTube au lien suivant: [le lien]
 
 # Qu'est ce que ce vélo connecté ?
 
@@ -11,14 +12,14 @@ Ce projet consiste au développement d'un boitier simple et portable à fixer de
 L'application embarque :
 - un service de connexion au boitier
 - le controle des clignotants par 2 boutons
-- le freinage automatique, lorsque le vélo n'est plus en mouvement, via le capteur acceleromètre du téléphone
-- l'affichage de l'etat des clignotants, et de l'indicateur de freinage (permet de savoir qu'est ce qui est affiché dans mon dos quand je roule)
-- l'affichage de la vitesse du vélo, via la position du vélo
+- le freinage automatique, lorsque le vélo n'est plus en mouvement, via le capteur d'acceleromètre du téléphone
+- l'affichage de l'etat des clignotants, et de l'indicateur de freinage (permet de savoir qu'est ce qui est affiché sur le boitier dans mon dos quand je roule)
+- l'affichage de la vitesse du vélo, via la position du téléphone fixé sur le vélo
 - un système de navigation (position de l'utilisateur sur une carte, possibilité de rentrer un itiniéraire et de le suivre)
 - l'historique de tous les trajets effectués
 
 # Le boitier :
-Le boitier est un module Arduino, alimenté par une pile 9V
+Le boitier est un module Arduino, alimenté par une pile 9V.
 
 Attention :
 - Le module Bluetooth Arduino est un module "BLE v1.0", utilisant la technologie Bluetooth BLE
