@@ -2,6 +2,8 @@
 
 Dépot Git pour le projet de vélo connecté. Tous les fichiers sont les fichiers pour le projet Flutter, sauf "ARDUINO.ino", qui est le fichier qui contient le code Arduino.
 
+Des images/vidéos du rendu sont disponible dans le dossier "IMAGES_RENDU"
+
 # Qu'est ce que ce vélo connecté ?
 
 Ce projet consiste au développement d'un boitier simple et portable à fixer derrière un vélo. Il indique la signalisation (clignotants, indicateur de freinage automatique) sur un écran LED. Ce boitier est connectable et controlable par une application mobile Flutter. Le téléphone doit être fixé sur le guidon du vélo, ce qui permet d'utiliser l'application en roulant.
