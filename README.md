@@ -1,8 +1,10 @@
 # FABLAB - Velo Connecté
 
-Dépot Github pour le projet de vélo connecté. Tous les fichiers sont les fichiers pour le projet Flutter, sauf "ARDUINO.ino", qui est le fichier qui contient le code Arduino.
+Dépot Github pour le projet de vélo connecté. 
 
-- Des images du rendu sont disponible dans le dossier "IMAGES_RENDU"
+- Le dossier "Flutter" contient le code de l'application mobile.
+- "ARDUINO.ino" est le fichier qui contient le code Arduino.
+- Des images du rendu sont disponible dans le dossier "Images"
 - Une vidéo de démonstration est disponible sur YouTube au lien suivant : https://youtu.be/42ZlgfZb-rM
 
 # Qu'est ce que ce vélo connecté ?
